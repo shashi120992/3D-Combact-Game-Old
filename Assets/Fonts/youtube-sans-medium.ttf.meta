@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6fc702c68bed2394ea23c12a9d9bcea4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - YouTube Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bc70a536c276d544e9c350da7e253652, type: 3}
+  - {fileID: 12800000, guid: 80bd131db2446ea4999384bbea9b4d6f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
